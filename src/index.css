@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply box-border;
+}
+
+body {
+  @apply m-0 p-0;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+/* Smooth transitions for interactive elements */
+button,
+a {
+  @apply transition-colors duration-200;
+}
+
+/* Optimize text rendering */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
