@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="#-getting-started--installation">Local Setup</a> • 
+  <a href="#-getting-started--installation">Project Setup</a> • 
   <a href="https://github.com/Kartiksharma1234/Footlytics/issues" target="_blank">Report Bug</a> • 
   <a href="https://github.com/Kartiksharma1234/Footlytics/issues" target="_blank">Request Feature</a>
 </p>
