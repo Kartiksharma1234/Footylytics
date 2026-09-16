@@ -5,6 +5,14 @@
 **A high-performance, data-driven sports analytics dashboard built for the expanded 48-team 2026 FIFA World Cup format.**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" style="pointer-events: none;" />
+</p>
+
+<p align="center">
   <a href="#-getting-started--installation">Local Setup</a>
 </p>
 
