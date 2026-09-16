@@ -2,22 +2,10 @@
 
 # 🏆 2026 FIFA World Cup Explorer
 
-<p align="center">
-  <b>A high-performance, data-driven sports analytics dashboard built for the expanded 48-team 2026 FIFA World Cup format.</b>
-</p>
+**A high-performance, data-driven sports analytics dashboard built for the expanded 48-team 2026 FIFA World Cup format.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-</p>
-
-<p align="center">
-  <a href="#-getting-started--installation">Local Setup</a> • 
-  <a href="https://github.com/Kartiksharma1234/Footlytics/issues" target="_blank">Report Bug</a> • 
-  <a href="https://github.com/Kartiksharma1234/Footlytics/issues" target="_blank">Request Feature</a>
+  <a href="#-getting-started--installation">Local Setup</a>
 </p>
 
 </div>
@@ -65,7 +53,7 @@ Footlytics/
 ├── src/
 │   ├── App.tsx             # Main application orchestrator, state control, and views
 │   ├── main.tsx            # DOM mounting and root provider configuration
-│   └── index.css             # Tailwind base directives and custom scrollbar styles
+│   └── index.css           # Tailwind base directives and custom scrollbar styles
 ├── package.json            # Project dependencies and build scripts
 └── README.md               # Comprehensive project documentation
 
@@ -116,6 +104,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Kartik Sharma**
 
 * GitHub: [@Kartiksharma1234](https://www.google.com/search?q=https://github.com/Kartiksharma1234&utm_source=gemini)
-Go ahead and paste this update into your `README.md`—it will look and behave precisely the way you want!
-
-```
