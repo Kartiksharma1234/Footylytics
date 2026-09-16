@@ -1,32 +1,66 @@
-# React + TypeScript + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# 🏆 2026 FIFA World Cup Explorer
 
-Currently, two official plugins are available:
+<p align="center">
+  <b>A high-performance, data-driven sports analytics dashboard built for the expanded 48-team 2026 FIFA World Cup format.</b>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
 
-## React Compiler
+[View Live Demo](#-getting-started-locally) · [Report Bug](https://github.com/Kartiksharma1234/Footlytics/issues) · [Request Feature](https://github.com/Kartiksharma1234/Footlytics/issues)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 🌟 Overview
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+**2026 World Cup Explorer** is a feature-rich web application engineered to simulate and track the upcoming 2026 FIFA World Cup. Moving beyond basic tournament tables, this dashboard combines rigorous group-stage tracking (Groups A–L), an exact knockout tree layout from the Round of 32 to the Finals, and granular individual player metrics mirroring professional sports data providers.
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## ✨ Core Features
+
+* **🗺️ 48-Team Group Stage Matrix**: 
+  * Full standings for Groups A through L tracking matches played, wins, draws, losses, goal differences, and recent match forms.
+  * Dedicated third-placed qualification ranking table governed by official tie-breaker logic.
+* **⚔️ Precision Knockout Tournament Tree**:
+  * Clean, artifact-free visual bracket layout from the Round of 32, Round of 16, Quarterfinals, and Semifinals.
+  * Centered Finals and 3rd-place playoff stage alignment with penalty shoot-out breakdowns (`(ph: pa)`).
+* **📊 Deep Squad & Player Analytics Engine**:
+  * Granular squad roster module featuring detailed player cards (Clubs, Primary Roles, Heights, DOB, and Ages).
+  * Advanced metrics dashboard tracking Sofascore ratings, expected goals ($xG$), assists, key passes, distance covered, top speeds, sprints, and shot efficiency maps.
+* **🎨 Modern UI/UX Architecture**:
+  * Built using a custom dark-mode sports design system (`#0f1115` base with `#1a1d24` cards).
+  * Fully responsive grid arrangements with optimized horizontal scrolling trees and custom styling overlays.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+* **Frontend Framework**: React 18 with strict TypeScript integration for type-safe data handling.
+* **Build System**: Vite for ultra-fast Hot Module Replacement (HMR) and optimized production bundles.
+* **Styling Engine**: Tailwind CSS utility classes paired with custom scrollbar optimization.
+* **Iconography**: Lucide-React for crisp, scalable UI vectors.
+* **Asset Integration**: Dynamic flag CDN resolution (`flagcdn.com`) mapped across 48+ international football federations.
+
+---
+
+## 📂 Repository Architecture
+
+```text
+Footlytics/
+├── public/                 # Static assets and flag resources
+├── src/
+│   ├── App.tsx             # Main application orchestrator, state control, and views
+│   ├── main.tsx            # DOM mounting and root provider configuration
+│   └── index.css           # Tailwind base directives and custom scrollbar styles
+├── package.json            # Project dependencies and build scripts
+└── README.md               # Comprehensive project documentation
