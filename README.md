@@ -64,3 +64,51 @@ Footlytics/
 │   └── index.css           # Tailwind base directives and custom scrollbar styles
 ├── package.json            # Project dependencies and build scripts
 └── README.md               # Comprehensive project documentation
+
+```
+
+---
+
+## 🚀 Getting Started & Installation
+
+To spin up a local development instance on your machine, execute the following commands in your terminal:
+
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/Kartiksharma1234/Footlytics.git](https://github.com/Kartiksharma1234/Footlytics.git)
+cd Footlytics
+
+```
+
+
+2. **Install package dependencies:**
+```bash
+npm install
+npm install lucide-react
+
+```
+
+
+3. **Launch the local development server:**
+```bash
+npm run dev
+
+```
+
+
+4. **Access the application:**
+Open your web browser and navigate to `http://localhost:5173`.
+
+---
+
+## 🛡️ License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 👤 Author & Maintainer
+
+**Kartik Sharma**
+
+* GitHub: [@Kartiksharma1234](https://www.google.com/search?q=https://github.com/Kartiksharma1234&utm_source=gemini)
