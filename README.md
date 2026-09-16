@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#-getting-started--installation">Local Setup</a>
+  <a href="#-getting-started--installation">Setup</a>
 </p>
 
 </div>
