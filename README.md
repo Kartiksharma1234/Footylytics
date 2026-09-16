@@ -7,14 +7,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <span style="display:inline-block; margin: 2px;"><img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></span>
+  <span style="display:inline-block; margin: 2px;"><img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></span>
+  <span style="display:inline-block; margin: 2px;"><img src="https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></span>
+  <span style="display:inline-block; margin: 2px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></span>
+  <span style="display:inline-block; margin: 2px;"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /></span>
 </p>
 
-[View Live Demo](#-getting-started-locally) · [Report Bug](https://github.com/Kartiksharma1234/Footlytics/issues) · [Request Feature](https://github.com/Kartiksharma1234/Footlytics/issues)
+<p align="center">
+  <a href="#-getting-started--installation">Local Setup</a> • 
+  <a href="https://github.com/Kartiksharma1234/Footlytics/issues" target="_blank">Report Bug</a> • 
+  <a href="https://github.com/Kartiksharma1234/Footlytics/issues" target="_blank">Request Feature</a>
+</p>
 
 </div>
 
